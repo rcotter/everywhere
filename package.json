@@ -1,0 +1,27 @@
+{
+    "name": "everywhere",
+    "version": "1.0.0",
+    "description": "Make app specific files accessible everywhere w/o globals and w/o requires needing crazy, repetitive relative paths. Think singleton or global w/o the stigma. Simple, consistent and resistant to refactoring.",
+    "main": "index.js",
+    "scripts": {
+        "test": "make test"
+    },
+    "keywords": [
+        "everywhere",
+        "global",
+        "require"
+    ],
+    "author": "Rick Cotter",
+    "license": "ISC",
+    "devDependencies": {
+        "mocha": "~1.18.2",
+        "should": "~3.2.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:rcotter/everywhere.git"
+    },
+    "bugs": {
+        "url": "https://github.com/rcotter/everywhere.git"
+    }
+}
